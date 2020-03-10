@@ -1,0 +1,46 @@
+[Command: python -u /tmp/atom_script_tempfiles/c6fd1570-62bc-11ea-a8a7-453dced694f0]
+List of 3 most popular repositories of mozilla on the basis of number of forks and their top 10 contributors are:
+
+1 => Repository_name: pdf.js  || Forks_count:  7046
+
+  Top 10 contributors of repository pdf.js are:
+      1 -> Login_name: Snuffleupagus  ||  Contributions:  2363
+      2 -> Login_name: yurydelendik  ||  Contributions:  2177
+      3 -> Login_name: timvandermeij  ||  Contributions:  1919
+      4 -> Login_name: brendandahl  ||  Contributions:  1161
+      5 -> Login_name: notmasteryet  ||  Contributions:  522
+      6 -> Login_name: vingtetun  ||  Contributions:  468
+      7 -> Login_name: andreasgal  ||  Contributions:  456
+      8 -> Login_name: arturadib  ||  Contributions:  373
+      9 -> Login_name: jviereck  ||  Contributions:  279
+      10 -> Login_name: joneschrisg  ||  Contributions:  258
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2 => Repository_name: BrowserQuest  || Forks_count:  2499
+
+  Top 4 contributors of repository BrowserQuest are:
+      1 -> Login_name: sork  ||  Contributions:  81
+      2 -> Login_name: glecollinet  ||  Contributions:  62
+      3 -> Login_name: mkrecny  ||  Contributions:  8
+      4 -> Login_name: bnoordhuis  ||  Contributions:  2
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3 => Repository_name: DeepSpeech  || Forks_count:  2490
+
+  Top 10 contributors of repository DeepSpeech are:
+      1 -> Login_name: reuben  ||  Contributions:  815
+      2 -> Login_name: lissyx  ||  Contributions:  427
+      3 -> Login_name: kdavis-mozilla  ||  Contributions:  264
+      4 -> Login_name: tilmankamp  ||  Contributions:  162
+      5 -> Login_name: Cwiiis  ||  Contributions:  63
+      6 -> Login_name: carlfm01  ||  Contributions:  27
+      7 -> Login_name: JRMeyer  ||  Contributions:  26
+      8 -> Login_name: andi4191  ||  Contributions:  16
+      9 -> Login_name: mychiux413  ||  Contributions:  13
+      10 -> Login_name: robmsmt  ||  Contributions:  12
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Finished in 56.545s]
