@@ -1,0 +1,56 @@
+[Command: python -u /tmp/atom_script_tempfiles/809f3580-62bd-11ea-a8a7-453dced694f0]
+List of 4 most popular repositories of ubuntu on the basis of number of forks and their top 7 contributors are:
+
+1 => Repository_name: microk8s  || Forks_count:  283
+
+  Top 7 contributors of repository microk8s are:
+      1 -> Login_name: ktsakalozos  ||  Contributions:  238
+      2 -> Login_name: tvansteenburgh  ||  Contributions:  19
+      3 -> Login_name: balchua  ||  Contributions:  13
+      4 -> Login_name: knkski  ||  Contributions:  12
+      5 -> Login_name: johnsca  ||  Contributions:  10
+      6 -> Login_name: joestringer  ||  Contributions:  6
+      7 -> Login_name: marcoceppi  ||  Contributions:  4
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2 => Repository_name: ubuntu-make  || Forks_count:  143
+
+  Top 7 contributors of repository ubuntu-make are:
+      1 -> Login_name: didrocks  ||  Contributions:  1094
+      2 -> Login_name: LyzardKing  ||  Contributions:  386
+      3 -> Login_name: ivuk  ||  Contributions:  33
+      4 -> Login_name: ojsheikh  ||  Contributions:  29
+      5 -> Login_name: Tinche  ||  Contributions:  27
+      6 -> Login_name: jravetch  ||  Contributions:  25
+      7 -> Login_name: syndbg  ||  Contributions:  17
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3 => Repository_name: snappy-playpen  || Forks_count:  79
+
+  Top 7 contributors of repository snappy-playpen are:
+      1 -> Login_name: didrocks  ||  Contributions:  131
+      2 -> Login_name: dholbach  ||  Contributions:  124
+      3 -> Login_name: wandrewkeech  ||  Contributions:  88
+      4 -> Login_name: LyzardKing  ||  Contributions:  40
+      5 -> Login_name: elopio  ||  Contributions:  36
+      6 -> Login_name: dplanella  ||  Contributions:  34
+      7 -> Login_name: popey  ||  Contributions:  28
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4 => Repository_name: yaru  || Forks_count:  74
+
+  Top 7 contributors of repository yaru are:
+      1 -> Login_name: Feichtmeier  ||  Contributions:  1023
+      2 -> Login_name: clobrano  ||  Contributions:  974
+      3 -> Login_name: godlyranchdressing  ||  Contributions:  254
+      4 -> Login_name: snwh  ||  Contributions:  246
+      5 -> Login_name: didrocks  ||  Contributions:  229
+      6 -> Login_name: ubuntujaggers  ||  Contributions:  217
+      7 -> Login_name: madsrh  ||  Contributions:  160
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Finished in 6.265s]
