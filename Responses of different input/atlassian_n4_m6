@@ -1,0 +1,52 @@
+[Command: python -u /tmp/atom_script_tempfiles/f3caf020-62b4-11ea-b4d5-0571a9d38cb5]
+List of 4 most popular repositories of atlassian on the basis of number of forks and their top 6 contributors are:
+
+1 => Repository_name: react-beautiful-dnd  || Forks_count:  1172
+
+  Top 6 contributors of repository react-beautiful-dnd are:
+      1 -> Login_name: alexreardon  ||  Contributions:  462
+      2 -> Login_name: greenkeeper[bot]  ||  Contributions:  22
+      3 -> Login_name: TrySound  ||  Contributions:  18
+      4 -> Login_name: jaredcrowe  ||  Contributions:  12
+      5 -> Login_name: danieldelcore  ||  Contributions:  12
+      6 -> Login_name: MarshallOfSound  ||  Contributions:  11
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2 => Repository_name: commonmark-java  || Forks_count:  163
+
+  Top 6 contributors of repository commonmark-java are:
+      1 -> Login_name: robinst  ||  Contributions:  514
+      2 -> Login_name: pathompson1  ||  Contributions:  26
+      3 -> Login_name: JinneeJ  ||  Contributions:  20
+      4 -> Login_name: chiwanpark  ||  Contributions:  12
+      5 -> Login_name: atlassian-bamboo-agent  ||  Contributions:  10
+      6 -> Login_name: ahjaworski  ||  Contributions:  7
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3 => Repository_name: docker-chromium-xvfb  || Forks_count:  106
+
+  Top 6 contributors of repository docker-chromium-xvfb are:
+      1 -> Login_name: mark-adams  ||  Contributions:  52
+      2 -> Login_name: wbinnssmith  ||  Contributions:  3
+      3 -> Login_name: davidwesst  ||  Contributions:  1
+      4 -> Login_name: JohannesRudolph  ||  Contributions:  1
+      5 -> Login_name: mbertrand80  ||  Contributions:  1
+      6 -> Login_name: mschwager  ||  Contributions:  1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4 => Repository_name: gostatsd  || Forks_count:  75
+
+  Top 6 contributors of repository gostatsd are:
+      1 -> Login_name: ash2k  ||  Contributions:  262
+      2 -> Login_name: jtblin  ||  Contributions:  75
+      3 -> Login_name: tiedotguy  ||  Contributions:  73
+      4 -> Login_name: kisielk  ||  Contributions:  48
+      5 -> Login_name: aelse  ||  Contributions:  18
+      6 -> Login_name: juliawong  ||  Contributions:  14
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Finished in 11.256s]

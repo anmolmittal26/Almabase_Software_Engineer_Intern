@@ -1,0 +1,59 @@
+[Command: python -u /tmp/atom_script_tempfiles/973336a0-62b5-11ea-b4d5-0571a9d38cb5]
+List of 5 most popular repositories of fossasia on the basis of number of forks and their top 5 contributors are:
+
+1 => Repository_name: open-event-server  || Forks_count:  1527
+
+  Top 5 contributors of repository open-event-server are:
+      1 -> Login_name: niranjan94  ||  Contributions:  1392
+      2 -> Login_name: rafalkowalski  ||  Contributions:  877
+      3 -> Login_name: SaptakS  ||  Contributions:  676
+      4 -> Login_name: aviaryan  ||  Contributions:  576
+      5 -> Login_name: shivamMg  ||  Contributions:  491
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2 => Repository_name: susi_android  || Forks_count:  1187
+
+  Top 5 contributors of repository susi_android are:
+      1 -> Login_name: arundhatigupta  ||  Contributions:  98
+      2 -> Login_name: batbrain7  ||  Contributions:  96
+      3 -> Login_name: atm1504  ||  Contributions:  93
+      4 -> Login_name: the-dagger  ||  Contributions:  86
+      5 -> Login_name: chiragw15  ||  Contributions:  85
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3 => Repository_name: susi_server  || Forks_count:  1140
+
+  Top 5 contributors of repository susi_server are:
+      1 -> Login_name: Orbiter  ||  Contributions:  1797
+      2 -> Login_name: daminisatya  ||  Contributions:  197
+      3 -> Login_name: sudheesh001  ||  Contributions:  167
+      4 -> Login_name: mariobehling  ||  Contributions:  155
+      5 -> Login_name: rmader  ||  Contributions:  140
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4 => Repository_name: phimpme-android  || Forks_count:  861
+
+  Top 5 contributors of repository phimpme-android are:
+      1 -> Login_name: pa1pal  ||  Contributions:  172
+      2 -> Login_name: abishekvashok  ||  Contributions:  153
+      3 -> Login_name: sauravvishal8797  ||  Contributions:  151
+      4 -> Login_name: mohitmanuja  ||  Contributions:  127
+      5 -> Login_name: yashk2000  ||  Contributions:  116
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+5 => Repository_name: open-event-droidgen  || Forks_count:  859
+
+  Top 5 contributors of repository open-event-droidgen are:
+      1 -> Login_name: mananwason  ||  Contributions:  179
+      2 -> Login_name: the-dagger  ||  Contributions:  151
+      3 -> Login_name: championswimmer  ||  Contributions:  116
+      4 -> Login_name: creativepsyco  ||  Contributions:  86
+      5 -> Login_name: mariobehling  ||  Contributions:  76
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Finished in 10.943s]

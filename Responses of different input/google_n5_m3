@@ -1,0 +1,49 @@
+[Command: python -u /tmp/atom_script_tempfiles/0c747050-6298-11ea-b4d5-0571a9d38cb5]
+List of 5 most popular repositories of google on the basis of number of forks and their top 3 contributors are:
+
+1 => Repository_name: styleguide  || Forks_count:  8526
+
+  Top contributors of repository styleguide are:
+      1 -> Login_name: eglaysher  ||  Contributions:  25
+      2 -> Login_name: IsaacG  ||  Contributions:  25
+      3 -> Login_name: tonyruscoe  ||  Contributions:  18
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2 => Repository_name: material-design-icons  || Forks_count:  8181
+
+  Top contributors of repository material-design-icons are:
+      1 -> Login_name: jestelle  ||  Contributions:  38
+      2 -> Login_name: addyosmani  ||  Contributions:  13
+      3 -> Login_name: liquidx  ||  Contributions:  9
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3 => Repository_name: guava  || Forks_count:  8122
+
+  Top contributors of repository guava are:
+      1 -> Login_name: cpovirk  ||  Contributions:  1381
+      2 -> Login_name: kluever  ||  Contributions:  557
+      3 -> Login_name: cgdecker  ||  Contributions:  493
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4 => Repository_name: iosched  || Forks_count:  6058
+
+  Top contributors of repository iosched are:
+      1 -> Login_name: shailen  ||  Contributions:  495
+      2 -> Login_name: jdkoren  ||  Contributions:  301
+      3 -> Login_name: nickbutcher  ||  Contributions:  260
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+5 => Repository_name: googletest  || Forks_count:  5835
+
+  Top contributors of repository googletest are:
+      1 -> Login_name: gennadiycivil  ||  Contributions:  1279
+      2 -> Login_name: BillyDonahue  ||  Contributions:  111
+      3 -> Login_name: kuzkry  ||  Contributions:  67
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Finished in 37.351s]

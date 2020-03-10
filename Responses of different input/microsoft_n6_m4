@@ -1,0 +1,63 @@
+[Command: python -u /tmp/atom_script_tempfiles/e32c6000-62aa-11ea-b4d5-0571a9d38cb5]
+List of 6 most popular repositories of microsoft on the basis of number of forks and their top 4 contributors are:
+
+1 => Repository_name: vscode  || Forks_count:  14219
+
+  Top contributors of repository vscode are:
+      1 -> Login_name: bpasero  ||  Contributions:  7927
+      2 -> Login_name: joaomoreno  ||  Contributions:  6834
+      3 -> Login_name: jrieken  ||  Contributions:  6414
+      4 -> Login_name: mjbvz  ||  Contributions:  4823
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2 => Repository_name: TypeScript  || Forks_count:  7933
+
+  Top contributors of repository TypeScript are:
+      1 -> Login_name: ahejlsberg  ||  Contributions:  3566
+      2 -> Login_name: sheetalkamat  ||  Contributions:  2484
+      3 -> Login_name: mhegazy  ||  Contributions:  2308
+      4 -> Login_name: DanielRosenwasser  ||  Contributions:  2182
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3 => Repository_name: Windows-universal-samples  || Forks_count:  7280
+
+  Top contributors of repository Windows-universal-samples are:
+      1 -> Login_name: oldnewthing  ||  Contributions:  169
+      2 -> Login_name: ChrisGuzak  ||  Contributions:  1
+      3 -> Login_name: ontx  ||  Contributions:  1
+      4 -> Login_name: turolla  ||  Contributions:  1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4 => Repository_name: terminal  || Forks_count:  5623
+
+  Top contributors of repository terminal are:
+      1 -> Login_name: miniksa  ||  Contributions:  198
+      2 -> Login_name: DHowett-MSFT  ||  Contributions:  165
+      3 -> Login_name: zadjii-msft  ||  Contributions:  139
+      4 -> Login_name: carlos-zamora  ||  Contributions:  48
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+5 => Repository_name: sql-server-samples  || Forks_count:  4447
+
+  Top contributors of repository sql-server-samples are:
+      1 -> Login_name: jodebrui  ||  Contributions:  335
+      2 -> Login_name: JocaPC  ||  Contributions:  305
+      3 -> Login_name: uc-msft  ||  Contributions:  248
+      4 -> Login_name: perrysk-msft  ||  Contributions:  136
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+6 => Repository_name: CNTK  || Forks_count:  4417
+
+  Top contributors of repository CNTK are:
+      1 -> Login_name: frankseide  ||  Contributions:  2843
+      2 -> Login_name: wilrich-msft  ||  Contributions:  880
+      3 -> Login_name: amitaga  ||  Contributions:  738
+      4 -> Login_name: mahilleb-msft  ||  Contributions:  636
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Finished in 67.002s]

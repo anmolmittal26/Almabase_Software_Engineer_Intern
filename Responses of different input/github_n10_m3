@@ -1,0 +1,84 @@
+[Command: python -u /tmp/atom_script_tempfiles/2b1ce250-62b4-11ea-b4d5-0571a9d38cb5]
+List of 10 most popular repositories of github on the basis of number of forks and their top 3 contributors are:
+
+1 => Repository_name: gitignore  || Forks_count:  50778
+  Top 3 contributors of repository gitignore are:
+      1 -> Login_name: shiftkey  ||  Contributions:  664
+      2 -> Login_name: arcresu  ||  Contributions:  334
+      3 -> Login_name: aroben  ||  Contributions:  123
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2 => Repository_name: explore  || Forks_count:  6498
+  Top 3 contributors of repository explore are:
+      1 -> Login_name: kenyonj  ||  Contributions:  522
+      2 -> Login_name: MikeMcQuaid  ||  Contributions:  251
+      3 -> Login_name: cheshire137  ||  Contributions:  242
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3 => Repository_name: opensource.guide  || Forks_count:  6066
+  Top 3 contributors of repository opensource.guide are:
+      1 -> Login_name: mlinksva  ||  Contributions:  280
+      2 -> Login_name: katrinleinweber  ||  Contributions:  209
+      3 -> Login_name: MikeMcQuaid  ||  Contributions:  202
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4 => Repository_name: personal-website  || Forks_count:  4947
+  Top 3 contributors of repository personal-website are:
+      1 -> Login_name: brandonrosage  ||  Contributions:  109
+      2 -> Login_name: sophshep  ||  Contributions:  14
+      3 -> Login_name: MatejMecka  ||  Contributions:  9
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+5 => Repository_name: training-kit  || Forks_count:  3756
+  Top 3 contributors of repository training-kit are:
+      1 -> Login_name: jordanmccullough  ||  Contributions:  945
+      2 -> Login_name: beardofedu  ||  Contributions:  455
+      3 -> Login_name: brianamarie  ||  Contributions:  397
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+6 => Repository_name: markup  || Forks_count:  3391
+  Top 3 contributors of repository markup are:
+      1 -> Login_name: defunkt  ||  Contributions:  91
+      2 -> Login_name: gjtorikian  ||  Contributions:  86
+      3 -> Login_name: bkeepers  ||  Contributions:  61
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+7 => Repository_name: linguist  || Forks_count:  2737
+  Top 3 contributors of repository linguist are:
+      1 -> Login_name: arfon  ||  Contributions:  819
+      2 -> Login_name: josh  ||  Contributions:  735
+      3 -> Login_name: tnm  ||  Contributions:  496
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+8 => Repository_name: fetch  || Forks_count:  2417
+  Top 3 contributors of repository fetch are:
+      1 -> Login_name: mislav  ||  Contributions:  211
+      2 -> Login_name: josh  ||  Contributions:  137
+      3 -> Login_name: dgraham  ||  Contributions:  124
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+9 => Repository_name: hub  || Forks_count:  2005
+  Top 3 contributors of repository hub are:
+      1 -> Login_name: mislav  ||  Contributions:  1507
+      2 -> Login_name: jingweno  ||  Contributions:  879
+      3 -> Login_name: defunkt  ||  Contributions:  240
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+10 => Repository_name: hubot-scripts  || Forks_count:  1991
+  Top 3 contributors of repository hubot-scripts are:
+      1 -> Login_name: tombell  ||  Contributions:  452
+      2 -> Login_name: technicalpickles  ||  Contributions:  430
+      3 -> Login_name: atmos  ||  Contributions:  178
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Finished in 18.928s]
