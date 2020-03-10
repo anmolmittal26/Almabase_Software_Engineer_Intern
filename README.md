@@ -16,5 +16,5 @@ Various optimazation method used in the project are:
   Time Complexity of this method is O(N + (K-N)LogN) + O(NM) 
   
   
-  K = Total repository, N = top repository with maximum fork count and m = top contributors of respective repository.
+  K = Total repository, N = top repository with maximum fork count, m = top contributors of respective repository.
  - Second important method used to retrieve list of all repository of a given organization using GITHUB API is that using recursive function to iterate through all the pages because by default GitHub Search API provides items in sets of 100 per page and makes them in pagination. To iterate through all these pages we used recursion function to traverse through all pagination.
