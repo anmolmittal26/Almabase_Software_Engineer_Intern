@@ -21,8 +21,9 @@ def heapsort(ll = []):  #heapsort function
     for i in range(n//2-1, -1, -1):
         heapify(n, i, ll)
 
-def call_api(apicall, **kwargs):        #recursion function to iterate through all the pages recieved. It is written because
-                                        # GitHub Search API provides items in sets of 100 per page and makes them in pagination
+
+def call_api(apicall, **kwargs):        #recursion function to iterate through all the pages recieved. 
+
     data = kwargs.get('page', [])
 
     resp = requests.get(apicall)
