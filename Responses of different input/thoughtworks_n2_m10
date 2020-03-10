@@ -1,0 +1,36 @@
+[Command: python -u /tmp/atom_script_tempfiles/29dc92c0-62b7-11ea-b4d5-0571a9d38cb5]
+List of 2 most popular repositories of thoughtworks on the basis of number of forks and their top 10 contributors are:
+
+1 => Repository_name: build-your-own-radar  || Forks_count:  520
+
+  Top 10 contributors of repository build-your-own-radar are:
+      1 -> Login_name: lauraionescu  ||  Contributions:  71
+      2 -> Login_name: thenano  ||  Contributions:  44
+      3 -> Login_name: SARAN-thala  ||  Contributions:  31
+      4 -> Login_name: mohamednajiullah  ||  Contributions:  25
+      5 -> Login_name: trecenti  ||  Contributions:  17
+      6 -> Login_name: arunvelsriram  ||  Contributions:  15
+      7 -> Login_name: rdoh  ||  Contributions:  9
+      8 -> Login_name: jawahars16  ||  Contributions:  7
+      9 -> Login_name: gowthamraj198  ||  Contributions:  4
+      10 -> Login_name: NivedhaSenthil  ||  Contributions:  4
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2 => Repository_name: cruisecontrol.rb  || Forks_count:  218
+
+  Top 10 contributors of repository cruisecontrol.rb are:
+      1 -> Login_name: alexeyv  ||  Contributions:  355
+      2 -> Login_name: bguthrie  ||  Contributions:  143
+      3 -> Login_name: stellsmi  ||  Contributions:  137
+      4 -> Login_name: ketan  ||  Contributions:  70
+      5 -> Login_name: thewoolleyman  ||  Contributions:  50
+      6 -> Login_name: ianheggie  ||  Contributions:  47
+      7 -> Login_name: gigix  ||  Contributions:  45
+      8 -> Login_name: mtgrosser  ||  Contributions:  43
+      9 -> Login_name: joepoon  ||  Contributions:  30
+      10 -> Login_name: mrduncan  ||  Contributions:  29
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Finished in 4.293s]
