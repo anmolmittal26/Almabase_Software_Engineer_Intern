@@ -1,5 +1,4 @@
-# Almabase_Software_Engineer_Intern
-## Almabase Engineer Task Round
+# top_github_repo_finder
 
 This project uses GITHUB API to retrieve the results of N most popular repositories out of K Total repositories and their M top contributors.
 
